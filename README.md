@@ -1,5 +1,5 @@
 # baiduSpider
-selenium百度学术爬虫
+selenium百度学术爬虫  python3
 
 ## 配置
 配置内容从conf.ini获得，爬取的作者详情页url从excel读取。
